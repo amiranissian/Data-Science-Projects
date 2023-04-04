@@ -43,7 +43,7 @@ classifier_name = st.sidebar.selectbox(
     ('Random Forest','SVR' )
 )
 nav = st.sidebar.radio("Navigation Menu",["Purpose", "Data & Modelling", "Results"])
-df = pd.read_csv("C:/Users\A.Miri\Documents\Python Scripts\project_in_data\co2_test_new_1categuric.csv")
+df = pd.read_csv("E:\ecutbildning\malmo\Projekt_i_Data Science\project\database/CO2 Emissions_Canada.csv")
 
 X = df[['Engine Size(L)', 'Cylinders', 'Fuel Consumption City (L/100 km)','Fuel Consumption Hwy (L/100 km)', 'Fuel Consumption Comb (L/100 km)']]
 y = df['CO2 Emissions(g/km)']
