@@ -15,4 +15,9 @@
 [Co2 Emission Prediction Report](https://github.com/amiranissian/Data-Science-Projects/blob/main/Project%20Documentation_Report.pdf)
 
 ## Streamlit App
-#### 
+#### We've made a simple Streamlit App so we are able to see the result of our top two models. 
+#### With the help from rmse and r^2score we see the result from our models. 
+#### with theese histogram and boxplot we are able to get a clear idea how good our model is.
+#### The first page is a description of what we want to show and to the left we have a Meny where you are able to change the model but also if you want to see that data and models and the result.
+
+
