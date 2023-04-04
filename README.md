@@ -26,5 +26,6 @@
 #### In this video, you can see how the app functions.
 [streamlit Video](https://github.com/amiranissian/Data-Science-Projects/blob/main/images/streamlit-STREAMLIT_PRESENT_5-2023-04-04-14-04-44.webm)
 
+## Dataset
 #### This link will take you to the dataset used in this project:
 [Co2 Emission CSV file](https://github.com/amiranissian/Data-Science-Projects/blob/main/CO2%20Emissions_Canada.csv)
